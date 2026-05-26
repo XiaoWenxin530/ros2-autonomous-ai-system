@@ -59,7 +59,7 @@ An autonomous mobile manipulator that **detects, navigates to, grasps and deposi
 
 **ROS 2 Distribution:** Humble Hawksbill (Ubuntu 22.04)
 
-![Software architecture overview](docs/assets/Software architecture overview.jpg)
+![Software architecture overview](docs/assets/software_architecture_overview.jpg)
 
 ---
 
